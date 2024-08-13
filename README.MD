@@ -9,7 +9,7 @@ The .NET 8 SDK, the .NET CLI and a version of SQL Server need to be installed to
 To build, in PowerShell, `cd` into the solution's root folder and run `.\build.bat`.
 
 To run the tests, from the same folder, run `.\test.bat`.
-(At the moment, the test projects are empty. I plan to spend an hour to add proper unit tests in the evening on 8 August)
+(At the moment, the test projects are empty. I plan to spend an hour to add proper unit tests)
 
 To start, run `.\run.bat`.
 
